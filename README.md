@@ -18,7 +18,7 @@ https://youtu.be/BiyYDAUVHlg
 
 ![figura1](https://github.com/francofrolla/ambientacionuns/blob/main/imagenes/figura%202.png?raw=true)
 
-5-Instalar los scripts para ser usados en QGIS. Ir a:
+5-Se deben pegar los scripts en una carpeta especifica para ser usados en QGIS. Para ello ir a:
 
 **Procesos> Caja de Herramientas > R**
 
@@ -26,11 +26,13 @@ Bajo el icono de **R** hay un menu desplegable, ampliar el menu despegable y ele
 
 ![figura1](https://github.com/francofrolla/ambientacionuns/blob/main/imagenes/figura%203.png?raw=true)
 
+Debemos llegar hasta esa carpeta y pegar los scripts que descargamos, se puede ir manualmente o por el siguiente metodo:
+
 En Windows se puede llegar a la carpeta desde **Inicio>Ejecutar** o presionando (Win+R). Pegar ruta de acceso hasta la ultima barra separadora (/). 
 
 Ej: Si mi ruta es *C:/lospipis/.local/share/QGIS/QGIS3/profiles/default/python/plugins/processing_r/builtin_scripts/Histograma.rsx*
 
-(Win+R) > Pegar Ruta > *C:/lospipis/.local/share/QGIS/QGIS3/profiles/default/python/plugins/processing_r/builtin_scripts/Histograma.rsx* > Ejecutar 
+(Win+R) > Pegar Ruta > *C:/lospipis/.local/share/QGIS/QGIS3/profiles/default/python/plugins/processing_r/builtin_scripts/ > Ejecutar 
 
 En la carpeta que se abre pegar todos los archivos presentes en la carpeta **QGIS_1.1 estable.zip**
 
@@ -44,7 +46,7 @@ En QGIS en **Caja de Herramientas** ir a **Opciones** (simbolo llave francesa) >
 
 **Ambientación de lotes agricolar (con explicación instalacion programas)**, en este caso usar el presente repositorio (github/ambientacionuns) no el que figura en el video (github/mapaderindes) :  https://youtu.be/epv6MgmqGHI 
 
-8- Instalado todo se puede probar su funcionamiento con las capas
+8- Instalado todo se puede probar su funcionamiento con las capas:
 
 1- Campo Javier Seewald/mapa de convexidad.tif
 
