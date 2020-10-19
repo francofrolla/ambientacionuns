@@ -52,7 +52,7 @@ En QGIS en **Caja de Herramientas** ir a **Opciones** (simbolo llave francesa) >
 
 **Clase Viernes 17/09** : https://youtu.be/gP3URhBvNzY
 
-**Ambientación de lotes agricolar (con explicación instalacion programas)**, en este caso usar el presente repositorio (github/ambientacionuns) no el que figura en el video (github/mapaderindes) :  https://youtu.be/epv6MgmqGHI 
+**Ambientación de lotes agricolas (con explicación instalacion programas)**, en este caso usar el presente repositorio (github/ambientacionuns) no el que figura en el video (github/mapaderindes) :  https://youtu.be/epv6MgmqGHI 
 
 # Busqueda de Imagenes Sateliteles mediante el explorador:
 
