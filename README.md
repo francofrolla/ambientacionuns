@@ -14,7 +14,7 @@ https://youtu.be/BiyYDAUVHlg
 
 4- IMPORTANTE!!! Inicar QGIS en modo **Administrador** para ello sobre el icono de acceso a QGIS> clic derecho > **Ejecutar como Administrador**. En algunas pc Qgis puede generar una carpeta con varios accesos directos, utilizar la que indique **"QGIS Desktop (id version)"**
 
-4-En Qgis, instalar el complemento **"processing_r-2.0.0.zip"**. En Qgis buscar en el menu superior **Complementos > Administrar e instalar complementos > ... > Seleccionar "processing_r-2.0.0.zip" > Instalar Complemento**. Existe una version mas actual de este complemento (2.2.0) pero que no funciona correctamente, desestimar su uso si QGIS sugiere su instalación. 
+4-En Qgis, instalar el complemento **"processing_r-2.0.0.zip"**. En Qgis buscar en el menu superior **Complementos > Administrar e instalar complementos > ... > (buscar archivo en su pc) "processing_r-2.0.0.zip" > Instalar Complemento**. Existe una version mas actual de este complemento (2.2.0) pero que no funciona correctamente, desestimar su uso si QGIS sugiere su instalación. 
 
 ![figura1](https://github.com/francofrolla/ambientacionuns/blob/main/imagenes/figura%202.png?raw=true)
 
