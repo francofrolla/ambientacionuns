@@ -40,13 +40,7 @@ En QGIS en **Caja de Herramientas** ir a **Opciones** (simbolo llave francesa) >
 
 6- La primera vez que se ejecuta el programa se instalaran una serie de paquetes necesarios para ejecutar el programa. Solo ocurrira una vez.
 
-7. Links a Youtube.
-
-**Clase Viernes 17/09** : https://youtu.be/gP3URhBvNzY
-
-**Ambientación de lotes agricolar (con explicación instalacion programas)**, en este caso usar el presente repositorio (github/ambientacionuns) no el que figura en el video (github/mapaderindes) :  https://youtu.be/epv6MgmqGHI 
-
-8- Instalado todo se puede probar su funcionamiento con las capas:
+7- Instalado todo se puede probar su funcionamiento con las capas:
 
 1- Campo Javier Seewald/mapa de convexidad.tif
 
@@ -54,6 +48,11 @@ En QGIS en **Caja de Herramientas** ir a **Opciones** (simbolo llave francesa) >
 
 ![figura4](https://github.com/francofrolla/ambientacionuns/blob/main/imagenes/figura%204.png?raw=true)
 
+## Links a Youtube.
+
+**Clase Viernes 17/09** : https://youtu.be/gP3URhBvNzY
+
+**Ambientación de lotes agricolar (con explicación instalacion programas)**, en este caso usar el presente repositorio (github/ambientacionuns) no el que figura en el video (github/mapaderindes) :  https://youtu.be/epv6MgmqGHI 
 
 # Busqueda de Imagenes Sateliteles mediante el explorador:
 
