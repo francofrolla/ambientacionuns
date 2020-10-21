@@ -60,7 +60,13 @@ Link programa Explorador: https://francofrolla.users.earthengine.app/view/explor
 
 Link conversor kmz a geojson: http://lmingenieria.com.ar/kmzageojson/
 
+# Ambientar sin R
+Metodologia que no require R, simplemente los complementos que trae QGIS por defecto. Simplemente iniciar QGIS desde el icono "QGIS with Grass"
+
+https://www.youtube.com/watch?v=eLT_izEQ4_Q
+
 ## Ante cualquier error tomar una captura de pantalla e informar del error via Moodle. Se corregira y documentara lo mas rapido posible.  
+
 
 
 
